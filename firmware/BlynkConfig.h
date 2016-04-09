@@ -15,9 +15,9 @@
  * Change these settings to match your need
  ***************************************************/
 
-#define BLYNK_DEFAULT_DOMAIN     "blynk-cloud.com"
-#define BLYNK_DEFAULT_PORT       8442
-#define BLYNK_DEFAULT_PORT_SSL   8441
+#define BLYNK_DEFAULT_DOMAIN     "192.168.0.46"
+#define BLYNK_DEFAULT_PORT       8443
+#define BLYNK_DEFAULT_PORT_SSL   8442
 
 /***************************************************
  * Professional settings
